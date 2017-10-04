@@ -3,7 +3,7 @@
 ## Objectif
 
 Création d'un plugin VST, AU, DXi pour la spatialisation sonore au casque par [synthèse binaurale
-[synthèse binaurale](hhttps://en.wikipedia.org/wiki/Head-related_transfer_function)
+[synthèse binaurale](https://en.wikipedia.org/wiki/Head-related_transfer_function)
 
 ## Methodologie
 
