@@ -1,6 +1,6 @@
 # Plugin VST de spatialisation binaurale
 
-* Code, texte et doc en anglais -> audience plus elevée *
+*Code, texte et doc en anglais -> audience plus elevée*
 
 ## Objectif
 
