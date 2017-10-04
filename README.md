@@ -13,6 +13,10 @@ Création d'un plugin VST, AU, DXi pour la spatialisation sonore au casque par [
 * Utilisation de banques d'[HRTF](https://www.sofaconventions.org/mediawiki/index.php/Files) pour la spatialisation
 * Calcul de la Convolution réalisée via les fonctions DSP tools de Juce 5.1 (classe [convolution](https://www.juce.com/doc/classConvolution) )
 
+## Planning
+
+* [Séance 1](./seance1.md)
+
 ## Contributeurs
 
 * Julien Legrand (LP SARII, IUT Brest)
