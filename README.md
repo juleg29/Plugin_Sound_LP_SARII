@@ -20,4 +20,5 @@ Création d'un plugin VST, AU, DXi pour la spatialisation sonore au casque par [
 ## Contributeurs
 
 * Julien Legrand (LP SARII, IUT Brest)
+* Olivier Torillec (LP SARII, IUT Brest)
 
