@@ -16,6 +16,7 @@ Création d'un plugin VST, AU, DXi pour la spatialisation sonore au casque par [
 ## Planning
 
 * [Séance 1](./seance1.md)
+* Visionnage du tutorial video sut la creation de [plugin](https://m.youtube.com/watch?v=7JUvVnRZrjg)
 
 ## Contributeurs
 
