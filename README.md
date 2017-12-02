@@ -17,13 +17,8 @@ Création d'un plugin VST, AU, DXi pour la spatialisation sonore au casque par [
 
 * [Séance 1](./seance1.md)
 * Visionnage du tutorial video sut la creation de [plugin](https://m.youtube.com/watch?v=7JUvVnRZrjg)
+* [Séance 2](./seance_finale.md)
 
-## Sous Problématiques
-
-* Pourquoi les plugin JUCE ne fonctionnent-ils pas avec Audacity (compilation 32 ou 64 bits) ?
-* Comment lire des fichiers wav avec JUCE ? voir [classe File](https://juce.com/doc/classFile)
-* Comment réaliser une convolution avec JUCE ? voir [classe Convolution](https://juce.com/doc/classdsp_1_1Convolution)
- 
 
 ## Contributeurs
 
